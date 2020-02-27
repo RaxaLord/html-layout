@@ -1,0 +1,25 @@
+body {
+  background-color: blue;
+  width: 100%;
+  height: 100vh;
+  margin: 0;
+}
+
+.header {
+  background-color: grey;
+  width: 100%;
+  height: 20vh;
+}
+
+.section {
+  background-color: darkgreen;
+  width: 70%;
+  height: 70vh;
+  margin: auto;
+}
+
+.footer {
+  background-color: darkgray;
+  height: 10vh;
+  margin: auto;
+}

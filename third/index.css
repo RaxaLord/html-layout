@@ -1,0 +1,52 @@
+body {
+  margin: 0;
+  padding: 0;
+}
+
+/* FIRST BOX WITH THE DISPLAY PHOTO  */
+
+.row1 {
+  background-color: lightgray;
+  box-sizing: border-box;
+  width: 100%;
+  padding: 10px;
+}
+
+.row1-box {
+  background-color: lightskyblue;
+  width: 85px;
+  height: 85px;
+  margin: 0 10px;
+}
+
+/* FOR THE LOREM IPSUM TEXT  */
+
+.row2 {
+  padding: 50px;
+}
+
+/* ALL OTHER COLORED BOXES  */
+
+.row3 {
+  background-color: lime;
+  width: 100%;
+  height: 100px;
+}
+
+.row4 {
+  background-color: red;
+  width: 100%;
+  height: 100px;
+}
+
+.row5 {
+  background-color: navy;
+  width: 100%;
+  height: 100px;
+}
+
+.row6 {
+  background-color: orange;
+  width: 100%;
+  height: 100px;
+}
